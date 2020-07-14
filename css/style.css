@@ -417,4 +417,13 @@ h1:after {
     .services__cards {
         grid-template-columns: auto;
     }
+    .image__logos {
+        width: 254px;
+    }
+    .contact__wrapper {
+        width: 50%;
+    }
+    .form__inputs {
+        display: block;
+    }
 }
