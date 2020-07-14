@@ -426,4 +426,7 @@ h1:after {
     .form__inputs {
         display: block;
     }
+    .text__input {
+        width: 100%;
+    }
 }
